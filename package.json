@@ -1,7 +1,7 @@
 {
   "name": "gold-dashboard",
   "version": "2.5.0",
-  "description": "Live dashboard for the GoldMultiStrategy MT5 bot",
+  "description": "Live dashboard for the Goldmarkertmachanics MT5 bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
